@@ -1,0 +1,128 @@
+@font-face
+{
+   font-family: "Foundation Icons";
+   font-display: swap;
+   src: url('../fonts/foundation-icons.woff') format('woff'),
+        url('../fonts/foundation-icons.ttf') format('truetype'),
+        url('../fonts/foundation-icons.svg#fontcustom') format('svg'),
+        url('../fonts/foundation-icons.eot') format('embedded-opentype');
+}
+@font-face
+{
+   font-family: "Jost";
+   font-display: swap;
+   src: url('../fonts/Jost-Regular.ttf') format('truetype');
+}
+@font-face
+{
+   font-family: "Jost ExtraBold";
+   font-display: swap;
+   src: url('../fonts/Jost-ExtraBold.ttf') format('truetype');
+}
+@font-face
+{
+   font-family: "Jost Medium";
+   font-display: swap;
+   src: url('../fonts/Jost-Medium.ttf') format('truetype');
+}
+@font-face
+{
+   font-family: "Jost SemiBold";
+   font-display: swap;
+   src: url('../fonts/Jost-SemiBold.ttf') format('truetype');
+}
+@font-face
+{
+   font-family: "Josefin Sans";
+   font-display: swap;
+   src: url('../fonts/JosefinSans-Regular.ttf') format('truetype');
+}
+h1, .h1
+{
+   font-family: "Jost ExtraBold";
+   font-weight: bold;
+   font-size: 64px;
+   text-decoration: none;
+   color: #FFFFFF;
+   --color: #FFFFFF;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h2, .h2
+{
+   font-family: Jost;
+   font-weight: bold;
+   font-size: 37px;
+   text-decoration: none;
+   color: #FFFFFF;
+   --color: #FFFFFF;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h3, .h3
+{
+   font-family: Jost;
+   font-weight: bold;
+   font-size: 24px;
+   text-decoration: none;
+   color: #FFFFFF;
+   --color: #FFFFFF;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h4, .h4
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 21px;
+   font-style: italic;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h5, .h5
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 19px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+h6, .h6
+{
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   color: #000000;
+   --color: #000000;
+   background-color: transparent;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+   display: inline-block;
+}
+.CustomStyle
+{
+   font-family: "Courier New";
+   font-weight: bold;
+   font-size: 16px;
+   text-decoration: none;
+   color: #2E74B5;
+   --color: #2E74B5;
+   background-color: transparent;
+}

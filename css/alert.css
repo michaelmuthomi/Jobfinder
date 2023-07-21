@@ -1,0 +1,176 @@
+   ::selection{
+      background-color: #00FF84;
+      color: black;
+   }
+div#container
+{
+   width: 1360px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #002333;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+   overflow-x: hidden;
+}
+*
+{
+   scrollbar-color: rgba(0,255,132,1.00) rgba(0,35,51,1.00);
+   scrollbar-width: thin;
+}
+*::-webkit-scrollbar
+{
+   width: 5px;
+}
+*::-webkit-scrollbar-track
+{
+   background: rgba(0,35,51,1.00);
+}
+*::-webkit-scrollbar-thumb
+{
+   background-color: rgba(0,255,132,1.00);
+   border-radius: 2px;
+   border: 2px solid rgba(0,255,132,1.00);
+}
+*::-webkit-scrollbar-corner
+{
+   background: rgba(0,35,51,1.00);
+}
+a
+{
+   color: #0000FF;
+   text-decoration: none;
+}
+a:visited
+{
+   color: #800080;
+}
+a:active
+{
+   color: #FF0000;
+}
+a:hover
+{
+   color: #0000FF;
+   text-decoration: none;
+}
+.visibility-hidden
+{
+   visibility: hidden;
+}
+#popup
+{
+   border-width: 0;
+   vertical-align: top;
+}
+#wb_message 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   border-radius: 0px;
+   padding: 0;
+   margin: 0;
+   text-align: left;
+}
+#wb_message div
+{
+   text-align: left;
+}
+#wb_close
+{
+   background-color: rgba(255,255,255,0.00);
+   background-image: none;
+   border: 0px solid #245580;
+   border-radius: 0px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   vertical-align: top;
+}
+#wb_close:hover
+{
+   background-color: #FF0000;
+   background-image: none;
+   border: 0px solid #245580;
+}
+#close
+{
+   height: 22px;
+   width: 23px;
+}
+.close
+{
+   position: relative;
+   left: 0;
+   top: 0;
+   display: inline-block;
+   font-family: "Material Icons";
+   font-style: normal;
+   font-weight: normal;
+   line-height: 1;
+}
+.close:before
+{
+   content: "\e5cd";
+}
+#close i
+{
+   color: #000000;
+   display: inline-block;
+   font-size: 22px;
+   line-height: 22px;
+   vertical-align: middle;
+   width: 21px;
+}
+#wb_close:hover #close i
+{
+   color: #000000;
+}
+#wb_popup
+{
+   position: absolute;
+   left: 1083px;
+   top: 107px;
+   width: 256px;
+   height: 70px;
+   z-index: 0;
+}
+#wb_close
+{
+   position: absolute;
+   left: 1303px;
+   top: 131px;
+   width: 23px;
+   height: 22px;
+   text-align: center;
+   z-index: 2;
+}
+#wb_uid0
+{
+   color: #000000;
+   font-family: "Jost";
+   font-size: 19px;
+}
+#popup
+{
+   width: 256px;
+   height: 70px;
+}
+#wb_message
+{
+   position: absolute;
+   left: 1107px;
+   top: 131px;
+   width: 186px;
+   height: 55px;
+   z-index: 1;
+}
