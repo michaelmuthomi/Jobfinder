@@ -5,5 +5,4 @@
 [![Contributors](https://img.shields.io/github/contributors/michaelmuthomi/Jobfinder)](https://github.com/michaelmuthomi/Jobfinder/graphs/contributors)
 
 
-### Preview 
 ![Job Finder I Home](https://github.com/michaelmuthomi/Jobfinder/assets/108736931/4d66d373-dd5d-47ec-b0a8-f35619143dcc)
