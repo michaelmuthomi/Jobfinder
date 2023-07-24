@@ -19,7 +19,7 @@
   ```
   localhost/jobfinder
   ```
-### Run it Online
+### Check It Out 
   ```
   http://jobfind.42web.io/
   ```
