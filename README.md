@@ -25,4 +25,4 @@
   ```
 
 ### Preview
-![Job Finder I Home](https://github.com/michaelmuthomi/Jobfinder/assets/108736931/4d66d373-dd5d-47ec-b0a8-f35619143dcc)
+![Job Finder I Home](https://github.com/michaelmuthomi/Jobfinder/assets/108736931/331011ad-b199-4ebf-abae-39ae27c77958)
