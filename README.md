@@ -23,6 +23,9 @@
   ```
   http://jobfind.42web.io/
   ```
+  ```
+  https://jobfindr.000webhostapp.com/
+  ```
 
 ### Preview
 ![Job Finder I Home](https://github.com/michaelmuthomi/Jobfinder/assets/108736931/331011ad-b199-4ebf-abae-39ae27c77958)
