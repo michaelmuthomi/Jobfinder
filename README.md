@@ -14,7 +14,10 @@
   ```
     Jobfinder
   ```
-4. Import The SQL file
+4. Import The SQL file in
+  ```  
+    jobfinder/database/jobfinder.sql
+  ```
 5. Run the Project in this url
   ```
   localhost/jobfinder
