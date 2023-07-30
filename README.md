@@ -32,3 +32,7 @@
 
 ### Preview
 ![Job Finder I Home](https://github.com/michaelmuthomi/Jobfinder/assets/108736931/331011ad-b199-4ebf-abae-39ae27c77958)
+
+### Developed by
+![custom](https://github.com/michaelmuthomi/Jobfinder/assets/108736931/5d3001c5-4f94-4b39-8729-f31f463c42c7)
+
