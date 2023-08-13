@@ -5,24 +5,31 @@
 [![Contributors](https://img.shields.io/github/contributors/michaelmuthomi/Jobfinder)](https://github.com/michaelmuthomi/Jobfinder/graphs/contributors)
 
 ## Usage
-1. Download / Clone The repository
-2. cd into the repo
+  > Prerequisite
+  > 
+  > xampp
+1. Fork the repo
+2. Clone the repo
+```
+git clone https://github.com/<your username>/Jobfinder
+```
+3. cd into the repo
   ```
     cd Jobfinder
   ```
-3. Create a Database called
+4. Create a Database called
   ```
     Jobfinder
   ```
-4. Import The SQL file in
+5. Import The SQL file in
   ```  
     jobfinder/database/jobfinder.sql
   ```
-5. Run the Project in this url
+6. In your browser run
   ```
   localhost/jobfinder
   ```
-### Check It Out 
+### Live Preview
   ```
   http://jobfind.42web.io/
   ```
